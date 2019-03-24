@@ -13,6 +13,7 @@ public class Test {
         threadDemo.start();
         demo();
         demo(); //git dev1
+        demo(); // git dev2
     }
 
     /**
