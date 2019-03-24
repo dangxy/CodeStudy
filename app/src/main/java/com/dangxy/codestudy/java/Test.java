@@ -14,6 +14,7 @@ public class Test {
         demo();
         demo(); //git dev1
         demo(); // git dev2
+        demo(); // git master
     }
 
     /**
