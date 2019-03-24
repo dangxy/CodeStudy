@@ -32,6 +32,7 @@ public class Test {
         for (String str:list
              ) {
            System.out.println(str);
+           System.out.println(str+"dev01");
            System.out.println(str+"git master");
 
            System.out.println(str+"dev01");
