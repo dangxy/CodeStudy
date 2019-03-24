@@ -12,6 +12,7 @@ public class Test {
         ThreadDemo threadDemo = new ThreadDemo();
         threadDemo.start();
         demo();
+        demo(); //git dev1
     }
 
     /**
