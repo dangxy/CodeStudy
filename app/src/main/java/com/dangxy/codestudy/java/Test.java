@@ -1,7 +1,5 @@
 package com.dangxy.codestudy.java;
 
-import android.util.Log;
-
 import java.util.ArrayList;
 import java.util.List;
 
