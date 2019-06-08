@@ -1,7 +1,5 @@
 package com.dangxy.codestudy.java;
 
-import android.util.Log;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -17,7 +15,6 @@ public class Test {
         demo(); // git master
         demo(); // git dev03
         demo(); // git master03
-
     }
 
     /**
@@ -36,6 +33,10 @@ public class Test {
            System.out.println(str+"dev01");
            System.out.println(str+"git master");
 
+           System.out.println(str+"dev01");
+           System.out.println(str+"git master");
+
+           System.out.println(str+"dev01");
         }
 
     }
