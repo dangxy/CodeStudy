@@ -1,5 +1,7 @@
 package com.dangxy.codestudy.java;
 
+import com.dangxy.codestudy.kotlin.Single;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -17,6 +19,7 @@ public class Test {
         demo(); // git master03
         demo(); // git dev03
         demo(); // git master03
+        Single.INSTANCE.Test();
 
     }
 
